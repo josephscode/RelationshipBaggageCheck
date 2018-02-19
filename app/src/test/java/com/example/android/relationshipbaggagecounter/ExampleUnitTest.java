@@ -1,4 +1,4 @@
-package com.example.android.lovemeter;
+package com.example.android.relationshipbaggagecounter;
 
 import org.junit.Test;
 

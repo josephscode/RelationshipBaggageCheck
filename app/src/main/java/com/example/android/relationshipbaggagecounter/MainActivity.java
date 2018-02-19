@@ -1,13 +1,11 @@
-package com.example.android.lovemeter;
+package com.example.android.relationshipbaggagecounter;
 
-import static com.example.android.lovemeter.R.id.img_heart_broken;
-import static com.example.android.lovemeter.R.id.img_heart_unbroken;
+import static com.example.android.relationshipbaggagecounter.R.id.img_heart_unbroken;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
